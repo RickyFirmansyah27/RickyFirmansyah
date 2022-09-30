@@ -26,7 +26,7 @@
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="VScode" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="VsCode" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Flutter" width="30px" src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Heroku" width="30px" src="https://cdn-icons-png.flaticon.com/512/873/873120.png" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Streamlit" width="50px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" style="padding-right:10px;" />][webdev]
