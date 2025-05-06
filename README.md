@@ -47,12 +47,6 @@
 
 ---
 
-## 🌐 Hubungi Saya
-
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)](https://instagram.com/ricky_firmansyah07)
-
----
-
 ## 📈 Statistik GitHub
 
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=RickyFirmansyah27&show_icons=true&hide_title=true)
