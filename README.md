@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-Seorang Software Engineer dan Full-Stack Developer yang berfokus pada pengembangan aplikasi menggunakan Java, JavaScript, Golang, Rust, dan Python, serta memiliki minat mendalam pada kecerdasan buatan (AI).
+A Software Engineer and Full-Stack Developer specializing in Java, JavaScript, Golang, and Python, with a strong passion for Artificial Intelligence (AI).
 
 ## 🎓 Education
 
