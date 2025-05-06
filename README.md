@@ -1,74 +1,105 @@
-# 👋 Hai, saya Ricky Firmansyah
+# Ricky Firmansyah
 
-**Fresh Graduate** | **Data Science Enthusiast** | **Python & React/Node Developer**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rickyfirmansyah/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RickyFirmansyah27)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ricky-firmansyah.site)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rickyfirmansyah2707@gmail.com)
 
-📧 [rickyfirmansyah2707@gmail.com](mailto:rickyfirmansyah2707@gmail.com)
+## 👨‍💻 About Me
+
+Fresh Graduate Software Developer dengan fokus pada Data Science dan pengembangan aplikasi menggunakan Python, React, dan Node.js. Berpengalaman dalam membangun aplikasi full-stack dan pengolahan data.
+
+## 🎓 Education
+
+- **Universitas Teknokrat Indonesia** (2018–2022)  
+  *Bachelor of Informatics Engineering*
+  - Student Assistant for Database Systems
+  - Member of Mobile Programming Teknokrat
+  - Game Programming Enthusiast
+
+- **SMA N 1 Tanjung Bintang** (2015–2018)  
+  *Science Major (MIPA)*
+  - Deputy of Information and Communication Technology
+
+## 💼 Professional Experience
+
+- **PT. Giga Prima Lestari** — *Backend-Frontend Engineer Intern* (Jul–Sep 2021)
+  - Integrated Django-based backend systems with frontend interfaces
+  - Developed responsive user interfaces using React
+  - Collaborated with senior developers to implement business requirements
+
+## 🚀 Technical Skills
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Data Science & ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RickyFirmansyah27&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RickyFirmansyah27&theme=radical" alt="GitHub Streak" />
+</p>
+
+## 🔗 Featured Projects
+
+### [Personal Portfolio](https://ricky-firmansyah.site)
+Modern portfolio website showcasing my skills and projects.
+
+### [Pustaka Bersajak](https://bersajak-library-frontend.vercel.app)
+Digital library platform for poetry and literature enthusiasts.
+- **Tech Stack**: React, Node.js, MongoDB
+- **Features**: User authentication, book catalog, search functionality
+
+### [Weather App](https://frontend-weather-app-sepia.vercel.app)
+Real-time weather forecast application with location services.
+- **Tech Stack**: React, OpenWeather API
+- **Features**: Current weather, 5-day forecast, location search
+
+### [Shopping Time](https://shoping-time-frontend.vercel.app)
+E-commerce platform with product management system.
+- **Tech Stack**: React, Node.js, Express, PostgreSQL
+- **Features**: User authentication, shopping cart, payment integration
+
+## 📫 Let's Connect
+
+I'm always interested in collaborating on exciting projects or discussing technology trends. Feel free to reach out via [email](mailto:rickyfirmansyah2707@gmail.com) or connect with me on LinkedIn!
 
 ---
 
-## 🎓 Pendidikan
-
-- **Universitas Teknokrat Indonesia**  
-  *Sarjana Teknik Informatika* (2018–2022)  
-  - Asisten Sistem Database  
-  - Mobile Programming Teknokrat  
-  - Game Programming
-
-- **SMA N 1 Tanjung Bintang**  
-  *Jurusan MIPA* (2015–2018)  
-  - Wakil Teknologi Informasi dan Komunikasi
-
----
-
-## 💼 Pengalaman Magang
-
-- **PT. Giga Prima Lestari**  
-  *Backend-Frontend Engineer* (Juli–September 2021)  
-  - Integrasi Django  
-  - Pengembangan Frontend dengan React
-
----
-
-## 🧰 Bahasa & Alat
-
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][python]
-[<img align="left" alt="React" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="padding-right:10px;" />][react]
-[<img align="left" alt="Node.js" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg" style="padding-right:10px;" />][nodejs]
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][mysql]
-[<img align="left" alt="PostgreSQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" style="padding-right:10px;" />][postgresql]
-[<img align="left" alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="padding-right:10px;" />][javascript]
-[<img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg" style="padding-right:10px;" />][java]
-[<img align="left" alt="Go" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo.svg" style="padding-right:10px;" />][go]
-[<img align="left" alt="Vercel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Vercel_logo_2025.svg" style="padding-right:10px;" />][vercel]
-[<img align="left" alt="Streamlit" width="50px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" style="padding-right:10px;" />][streamlit]:contentReference[oaicite:23]{index=23}
-
-<br />
-<br />
-
----
-
-## 📈 Statistik GitHub
-
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=RickyFirmansyah27&show_icons=true&hide_title=true)
-
----
-
-## 🔗 Proyek
-
-- [My Portofolio](https://ricky-firmansyah.site)
-- [Pustaka Bersajak](https://bersajak-library-frontend.vercel.app)
-- [Weather App](https://frontend-weather-app-sepia.vercel.app)
-- [Shoping Time](https://shoping-time-frontend.vercel.app)
-
----
-
-[python]: https://www.python.org/
-[react]: https://reactjs.org/
-[nodejs]: https://nodejs.org/
-[mysql]: https://www.mysql.com/
-[postgresql]: https://www.postgresql.org/
-[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[java]: https://www.java.com/
-[go]: https://golang.org/
-[vercel]: https://vercel.com/
-[streamlit]: https://streamlit.io/
+<p align="center">
+  <i>Thanks for visiting my profile! Don't forget to ⭐ my repositories if you find them useful.</i>
+</p>
