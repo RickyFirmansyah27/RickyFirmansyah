@@ -23,15 +23,16 @@ Fresh Graduate Software Developer dengan fokus pada Data Science dan pengembanga
 
 ## 💼 Professional Experience
 - **PT. Dans Multi Pro** — *Fullstack Developer* (Apr 2023 s/d Apr 2025)
- - Contributed as a software developer in building enterprise application products, utilizing Agile
-   methodology to develop and refine individual features.
- - Transformed Figma designs into reusable and modular ReactJS functional components with the
-   help of Typescript, ensuring maintainability and scalability
- - Integrated and migrated REST API calls to React Query, reducing development time by up to
-   50% compared to the previous approach using Redux and manual state management
- - Technologies Used: Typescript, Javascript, Kong API Gateway, HapiJS, NestJS, ReactJS,
-   MySQL, PostgreSQL, Redis, RabbitMQ, Microservice Architecture, Microfrontend
-   Architecture.
+  - Developed responsive user interfaces using React
+  - Contributed as a software developer in building enterprise application products, utilizing Agile
+    methodology to develop and refine individual features.
+  - Transformed Figma designs into reusable and modular ReactJS functional components with the
+    help of Typescript, ensuring maintainability and scalability
+  - Integrated and migrated REST API calls to React Query, reducing development time by up to
+    50% compared to the previous approach using Redux and manual state management
+  - Technologies Used: Typescript, Javascript, Kong API Gateway, HapiJS, NestJS, ReactJS,
+    MySQL, PostgreSQL, Redis, RabbitMQ, Microservice Architecture, Microfrontend
+    Architecture.
 
 
 - **PT. Giga Prima Lestari** — *Backend-Frontend Engineer Intern* (Jul–Sep 2021)
