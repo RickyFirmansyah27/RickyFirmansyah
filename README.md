@@ -35,7 +35,7 @@ A Software Engineer and Full-Stack Developer specializing in Java, JavaScript, G
     Architecture.
 
 
-- **PT. Giga Prima Lestari** — *Backend-Frontend Engineer Intern* (Jul–Sep 2021)
+- **PT. Giga Prima Lestari** — *Backend Engineer* (Jul–Sep 2021)
   - Integrated Django-based backend systems with frontend interfaces
   - Developed responsive user interfaces using React
   - Collaborated with senior developers to implement business requirements
