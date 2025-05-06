@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-Fresh Graduate Software Developer dengan fokus pada Data Science dan pengembangan aplikasi menggunakan Python, React, dan Node.js. Berpengalaman dalam membangun aplikasi full-stack dan pengolahan data.
+Seorang Software Engineer dan Full-Stack Developer yang berfokus pada pengembangan aplikasi menggunakan Java, JavaScript, Golang, Rust, dan Python, serta memiliki minat mendalam pada kecerdasan buatan (AI).
 
 ## 🎓 Education
 
