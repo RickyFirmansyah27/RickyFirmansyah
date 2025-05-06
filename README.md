@@ -93,9 +93,8 @@ A Software Engineer and Full-Stack Developer specializing in Java, JavaScript, G
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RickyFirmansyah27&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RickyFirmansyah27&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RickyFirmansyah27&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 🔗 Featured Projects
